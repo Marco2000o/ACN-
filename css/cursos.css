@@ -327,6 +327,9 @@ nav{
     .menu.active{
         transform: translateY(0);
     }
+     .no_scroll{
+        overflow:hidden;
+    }
     .menu .menu-i ul li{
         display: block;
         margin: 50px 0;
